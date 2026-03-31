@@ -1,0 +1,33 @@
+(i)
+(m1, 2048)(aFM1, 1)
+(m2, 2048)(aFM2, 2)
+(m3, 1024)(aFM3, 3)
+
+
+(t1)t112
+(t1, 2, 3)@1v8
+
+(t1) [do]
+o5@l18v13@5f<v5@8f>v11@5f<v5@8f>v9@5f<v5@8g>v7@5f<v5@8g>>v13@5a#<<v5@8f>>v11@5a#<v13d#<<v5@8c>>v11@5d#<<v5@8c>>v7@5d#v13a#<v5@8f>v11@5a#<v5@8f>v9@5a#<v5@8g>v7@5a#<v5@8g>v5@5a#v11cv13g<v5@8f>v13@5f<<v5@8c>>v11@5f<<v5@8c
+o5@l18v13@5f<v5@8f>v11@5f<v5@8f>v9@5f<v5@8g>v7@5f<v5@8g>>v13@5a#<<v5@8f>>v11@5a#<v13d#<<v5@8c>>v11@5d#<<v5@8c>>v7@5d#v13a#<v5@8f>v11@5a#<v5@8f>v9@5a#<v5@8g>v7@5a#<v5@8g>v5@5a#v11cv13g<v5@8f>v13@5f<<v5@8c>>v11@5f<<v5@8c
+o3@l18@6v9cv7cv5crv9fv7fv5frv9cv7cv9d#v7d#v9gv7g>v9a#v7a#<v9cv7cv5crv9d#v7d#v5d#r>v9a#v7a#v5a#r<v9fv7f>v9d#v7d#
+o3@l18@6v9cv7cv5crv9fv7fv5frv9cv7cv9d#v7d#v9gv7gv9d#v7d#v9ccv7ccv5cv3crrrrrrrrrr
+o5@l9v11@8ccv9cv7c<v7@1a#a#>>v7@8c<<v7@1a#ff>>v7@8c<<v7@1f>>v7@8crrrv11ggv9gv7grrcrv11a#a#v9a#v7a#<<v7@1gggr
+o5@l9v11@8ccv9cv7c<v7@1a#a#>>v7@8c<<v7@1a#ff>>v7@8c<<v7@1f>>v7@8crrrv11ggv9gv7grrcrv11a#a#v9a#v7a#<<v7@1gggr
+o5@l9v11@8ccv9cv7c<v7@1a#a#>>v7@8c<<v7@1a#ff>>v7@8c<<v7@1f>>v7@8crrrv11a#a#v9a#rv11ggv9grv11a#a#v9a#r<v11d#d#v9d#r
+o5@l9v11@8cv10cv9cv8cv7cv6cv5cv4cv3cv2crrrrrrrrv7@1a#a#<ffd#d#>gggr<cccc[loop]
+(t2) [do]
+o2@l18v9@6fffffrfga#a#a#ra#ra#d#fffrfffra#g<ccd#r>a#g
+o2@l18v9@6fffffrfga#a#a#ra#ra#d#fffrfffra#g<ccd#r>a#g
+o5@l9v13@5c<v5@8c>v13@5g<v5@8c>v11@5cr<gr>v7c<v5@8a#>v7@5g<v5@8a#>@5c<@8f>@5g<@8f>>v13@5f<<v5@8d#>v13@5c<<v5@8c>>>v11@5f<<v5@8g>v11@5cr>v7fr<cv5@8a#>@5f<@8a#@5cr
+o5@l9v13@5c<v5@8c>v13@5g<v5@8c>v11@5cr<gr>v7c<v5@8a#>v7@5g<v5@8a#>@5c<@8f>@5g<@8f>>v13@5f<<v5@8d#>v13@5c<<v5@8c>>>v11@5f<<v5@8g>v11@5cr>v7fr<cv5@8a#>@5f<@8a#@5cr
+o5@l9v13@5c<v5@8c>v13@5g<v5@8c>v11@5cr<gr>v7c<v5@8a#>v7@5g<v5@8a#>@5c<@8f>@5g<@8f>>v13@5f<<v5@8d#>v13@5c<<v5@8c>>>v11@5f<<v5@8g>v11@5cr>v7fr<cv5@8a#>@5f<@8a#@5cr
+o5@l9v13@5c<v5@8c>v13@5g<v5@8c>v11@5cr<gr>v7c<v5@8a#>v7@5g<v5@8a#>@5c<@8f>@5g<@8f>>v13@5f<<v5@8d#>v13@5c<<v5@8c>>>v11@5f<<v5@8g>v11@5cr>v7fr<cv5@8a#>@5f<@8a#@5cr
+o3@l9v7@4ccv5ccv3cccrv7ccv5ccv3cccr>v7ggv5ggv3gggrv7a#a#v5a#a#v3a#a#a#r
+o3@l9v7@4ccv5ccv3cccrv7ccv5ccv3cccr>v7ggv5ggv3gggrv7a#a#v5a#a#v3a#a#a#r
+o3@l9v7@4ccv5ccv3cccrv7ccv5ccv3cccr>v9a#v7a#<v9gv7g>v9gv7gv5grv9a#v7a#v5a#r<v9d#v7d#v5d#r
+o3@l9v7@4cccv5cccv3ccccrrrrrrrrrrrrrrrrrr>v7a#a#v5d#d#[loop]
+(t3) [do]
+o5@l9@7v7brv5brv3brrr>v9d#v7d#v5d#v3d#d#r<d#r[loop]
+
+(p)

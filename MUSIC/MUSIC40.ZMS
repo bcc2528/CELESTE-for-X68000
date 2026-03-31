@@ -1,0 +1,18 @@
+(i)
+(m1, 1000)(aFM1, 1)
+(m2, 1000)(aFM2, 2)
+(m3, 1000)(aFM3, 3)
+
+
+(t1)t112
+(t1, 2, 3)@1v8
+
+(t1)@6l16 [do]
+o7v13cv9cv7cv5cv3cc>v11gv9gv13a#v11a#v9a#v7a#v5a#a#v3a#a#v13fv11fv9ffv7ffv5ffv3ffv13d#v11d#v9d#v7d#v5d#v3d#
+v13fv11fv9fv7fv5ffv3ffv11gv7gv13d#v11d#v9d#v7d#v5d#d#v13a#v9a#v7a#v5a#v3a#a#v13d#v11d#v9d#d#v7d#d#v5d#d#v3d#d#[loop]
+(t2)@1l16 [do]
+o4 v13cv7cv11cv7cv11cv7cv3crv13cv7cv11cv7cv11cv7cv3crv13fv7fv11fv7fv3fr>v13a#v7a#v11a#v7a#v11a#v7a#v11a#v7a#v3a#r
+v13fv7fv11fv7fv3frv13gv7gv11gv7gv3gr<v13d#v7d#v3d#rv13cv7cv11cv7cv11cv7cv11cv7cv11cv7cv3crv13cv7cv3cr[loop]
+(t3)@7l16 [do]
+o2 v5d#<<<v3cr>>>d#<<<v5c>v3d#v5a#>>v3d#rd#<v5f<<<v3d#>>v5a#rf>>v3a#<<<<v5g>>v3c<v5a#>v3fr<<gv5g>>v3c<v5a#>v3f>v5f>v3d#rd#<<<v5c>v3f[loop]
+(p)

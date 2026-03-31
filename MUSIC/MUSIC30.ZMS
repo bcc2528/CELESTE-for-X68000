@@ -1,0 +1,18 @@
+(i)
+(m1, 1000)(aFM1, 1)
+(m2, 1000)(aFM2, 2)
+(m3, 1000)(aFM3, 3)
+
+
+(t1)t112
+(t1, 2, 3)@1v8
+
+(t1)@7v3l16 [do]
+o2ddddc#c#c>a#f#c#>d#>gd#c#cccccd#g#<f<cf#a#<cc#d#d#eee[loop]
+(t2)@2l4 [do]
+o5rrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrr
+v11crv9cv7d#>v5g<rv7crrcrrv5crrc>v11grv9gv7d#v9frv7grrgrrv5grrg[loop]
+(t3)@7l16 [do]
+[loop]
+
+(p)
